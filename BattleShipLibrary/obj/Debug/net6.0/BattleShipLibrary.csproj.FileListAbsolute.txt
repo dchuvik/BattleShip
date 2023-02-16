@@ -1,0 +1,12 @@
+C:\Users\dchuv\OneDrive\Desktop\repos\BattleShip\BattleShipLibrary\bin\Debug\net6.0\BattleShipLibrary.deps.json
+C:\Users\dchuv\OneDrive\Desktop\repos\BattleShip\BattleShipLibrary\bin\Debug\net6.0\BattleShipLibrary.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\BattleShip\BattleShipLibrary\bin\Debug\net6.0\BattleShipLibrary.pdb
+C:\Users\dchuv\OneDrive\Desktop\repos\BattleShip\BattleShipLibrary\obj\Debug\net6.0\BattleShipLibrary.csproj.AssemblyReference.cache
+C:\Users\dchuv\OneDrive\Desktop\repos\BattleShip\BattleShipLibrary\obj\Debug\net6.0\BattleShipLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dchuv\OneDrive\Desktop\repos\BattleShip\BattleShipLibrary\obj\Debug\net6.0\BattleShipLibrary.AssemblyInfoInputs.cache
+C:\Users\dchuv\OneDrive\Desktop\repos\BattleShip\BattleShipLibrary\obj\Debug\net6.0\BattleShipLibrary.AssemblyInfo.cs
+C:\Users\dchuv\OneDrive\Desktop\repos\BattleShip\BattleShipLibrary\obj\Debug\net6.0\BattleShipLibrary.csproj.CoreCompileInputs.cache
+C:\Users\dchuv\OneDrive\Desktop\repos\BattleShip\BattleShipLibrary\obj\Debug\net6.0\BattleShipLibrary.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\BattleShip\BattleShipLibrary\obj\Debug\net6.0\refint\BattleShipLibrary.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\BattleShip\BattleShipLibrary\obj\Debug\net6.0\BattleShipLibrary.pdb
+C:\Users\dchuv\OneDrive\Desktop\repos\BattleShip\BattleShipLibrary\obj\Debug\net6.0\ref\BattleShipLibrary.dll

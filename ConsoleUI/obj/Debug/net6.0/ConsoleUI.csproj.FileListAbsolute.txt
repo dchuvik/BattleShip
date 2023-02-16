@@ -1,0 +1,5 @@
+C:\Users\dchuv\OneDrive\Desktop\repos\BattleShip\ConsoleUI\obj\Debug\net6.0\ConsoleUI.csproj.AssemblyReference.cache
+C:\Users\dchuv\OneDrive\Desktop\repos\BattleShip\ConsoleUI\obj\Debug\net6.0\ConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dchuv\OneDrive\Desktop\repos\BattleShip\ConsoleUI\obj\Debug\net6.0\ConsoleUI.AssemblyInfoInputs.cache
+C:\Users\dchuv\OneDrive\Desktop\repos\BattleShip\ConsoleUI\obj\Debug\net6.0\ConsoleUI.AssemblyInfo.cs
+C:\Users\dchuv\OneDrive\Desktop\repos\BattleShip\ConsoleUI\obj\Debug\net6.0\ConsoleUI.csproj.CoreCompileInputs.cache
